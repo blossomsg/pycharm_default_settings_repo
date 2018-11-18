@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Pipfile Watcher" displayType="STICKY_BALLOON" />
-  </component>
-</application>
