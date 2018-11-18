@@ -1,11 +1,7 @@
 <application>
   <component name="GithubAccounts">
-    <account id="62229f95-8689-4177-94c4-d19a9d6ba37f" name="blossom_ghuntla@yahoo.com">
+    <account id="8054cbf4-f39e-4384-ad25-5f1bf6d340c4" name="blossom_ghuntla@yahoo.com">
       <server host="github.com" />
     </account>
-  </component>
-  <component name="GithubSettings">
-    <option name="CONNECTION_TIMEOUT" value="60000" />
-    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
