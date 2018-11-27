@@ -1,0 +1,12 @@
+<application>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bcaveat\b.*" />
+    <pattern useCustomColors="true" pattern="\balert\b.*">
+      <option name="FOREGROUND" value="c00000" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern pattern="\bhowto\b.*" />
+  </component>
+</application>
